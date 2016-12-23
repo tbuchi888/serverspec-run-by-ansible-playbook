@@ -35,8 +35,8 @@ Directories and files
 │   │   └── sample_spec.rb  # Sererspec
 │   └── spec_helper.rb      # Sererspec
 ├── spec.yml                # Ansible
-├── spec_vars               # Ansible
-│   ├── hostvars_centos6-httpd01.yml 
+├── spec_vars               # Ansible:　This is created when the playbook is runed.
+│   ├── hostvars_centos6-httpd01.yml 
 │   ├── hostvars_centos6-httpd02.yml
 │   ├── hostvars_win2012-iis01.yml
 └── templates               
