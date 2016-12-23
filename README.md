@@ -1,7 +1,7 @@
 # serverspec-run-by-ansible-playbook
 Serverspec run by ansible-playbook and it use hostvars variables of Ansible.
 
-This Playbook uses follows topics.
+This playbook uses the following topics.
 
 + Ansible
   + [FAQ: In a template, get all the IPs of all machines in a group](https://support.ansible.com/hc/en-us/articles/201957817-In-a-template-get-all-the-IPs-of-all-machines-in-a-group)
